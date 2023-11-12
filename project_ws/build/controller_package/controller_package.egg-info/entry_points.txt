@@ -1,0 +1,3 @@
+[console_scripts]
+node = controller_package.node:main
+
