@@ -138,6 +138,10 @@ ros2 run controller_package node
 
 ## Demo
 
+### Mapping the scenario
+
+https://github.com/ViniciosLugli/2023-2A-T2-M8-P1/assets/40807526/09ae1de3-7817-4dee-8597-3f963ce10fcc
+
 ### Map waypoints
 
 ![waypoints](https://github.com/ViniciosLugli/2023-2A-T2-M8-P1/assets/40807526/a086e8bd-8c20-400e-bbe0-84d66d72cf52)
@@ -145,7 +149,3 @@ ros2 run controller_package node
 ### Video
 
 https://github.com/ViniciosLugli/2023-2A-T2-M8-P1/assets/40807526/cd23cb3b-06d7-4a73-a535-9db6e17a9c58
-
-```
-
-```
