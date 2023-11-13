@@ -104,7 +104,7 @@ or if you use zsh:
 source install/setup.zsh
 ```
 
-## Start project
+## Start project manual
 
 ### Start gazebo world
 
@@ -134,6 +134,24 @@ To start the controller, run the following command and the robot will move to th
 
 ```bash
 ros2 run controller_package node
+```
+
+## Start project using launch
+
+### Mapping
+
+To start mapping the scenario, run the following command:
+
+```bash
+ros2 launch controller_package mapping_launch.xml
+```
+
+### Navigation
+
+To start the navigation, run the following command:
+
+```bash
+ros2 launch controller_package navigation_launch.xml
 ```
 
 ## Demo
