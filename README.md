@@ -1,4 +1,4 @@
-# 2023-2A-T2-M8-P1
+# 2023-2B-T2-M8-P1
 
 This project use the gazebo simulator, with rviz and ros2 to simulate a robot that can move autonomously in a map from waypoints previously defined on [code](https://github.com/ViniciosLugli/2023-2A-T2-M8-P1/blob/9f5b8e7689d2da0277bb9604636c96eae7084ca0/project_ws/controller_package/controller_package/node.py#L37).
 
