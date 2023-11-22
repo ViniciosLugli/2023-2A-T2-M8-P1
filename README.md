@@ -158,12 +158,11 @@ ros2 launch controller_package navigation_launch.xml
 
 ### Mapping the scenario
 
-https://github.com/ViniciosLugli/2023-2A-T2-M8-P1/assets/40807526/09ae1de3-7817-4dee-8597-3f963ce10fcc
+https://github.com/ViniciosLugli/2023-2B-T2-M8-P1/assets/40807526/95cb81fb-c37b-4a00-985e-1e54f8846d00
 
 ### Map waypoints
-
-![waypoints](https://github.com/ViniciosLugli/2023-2A-T2-M8-P1/assets/40807526/a086e8bd-8c20-400e-bbe0-84d66d72cf52)
+![waypoints](https://github.com/ViniciosLugli/2023-2B-T2-M8-P1/assets/40807526/5a2a3dd9-db94-450e-97de-1e309dcb50da)
 
 ### Video
 
-https://github.com/ViniciosLugli/2023-2A-T2-M8-P1/assets/40807526/cd23cb3b-06d7-4a73-a535-9db6e17a9c58
+https://github.com/ViniciosLugli/2023-2B-T2-M8-P1/assets/40807526/2ea46be0-ae19-471a-b14d-8d4996fc4f30
